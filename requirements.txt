@@ -4,7 +4,7 @@ backports-abc==0.5
 bdist-mpkg==0.5.0
 bonjour-py==0.3
 cffi==1.12.2
-cryptography==2.6.1
+cryptography==3.2
 dj-database-url==0.5.0
 Django==1.11.29
 django-filter==2.0.0
